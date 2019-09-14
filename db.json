@@ -1,0 +1,25 @@
+{
+"Vehicle":[
+{
+    "Vehicle Number": "KA51AB5411",
+    "Key RFID": "29AB123489AB",
+    "HELMET RFID": "29AB123489AC",
+    "STATUS": "All OK",
+    "Locker": "1"
+}
+{
+    "Vehicle Number": "KA51AB5412",
+    "Key RFID": "29AB123489AD",
+    "HELMET RFID": "29AB123489AE",
+    "STATUS": "Key Missing",
+    "Locker": "2"
+}
+{
+    "Vehicle Number": "KA51AB5413",
+    "Key RFID": "29AB12348BA",
+    "HELMET RFID": "29AB123489BB",
+    "STATUS": "Helmet Missing",
+    "Locker": "3"
+}
+]
+}
